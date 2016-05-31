@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mbharrat/Desktop/_096465f8da8bfa9c908b9aebcb5ec777_m4-assignment-diamond-sizes-skeleton/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/mbharrat/Desktop/_096465f8da8bfa9c908b9aebcb5ec777_m4-assignment-diamond-sizes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.2.1_39984d72c4cca14511adac8478928050b7b3cc12/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mbharrat/Desktop/_096465f8da8bfa9c908b9aebcb5ec777_m4-assignment-diamond-sizes-skeleton/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/mbharrat/Desktop/_096465f8da8bfa9c908b9aebcb5ec777_m4-assignment-diamond-sizes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.2.1_8ebf3c83a8a07c1dacfe99a7c3eb747162db0d0b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mbharrat/Desktop/_096465f8da8bfa9c908b9aebcb5ec777_m4-assignment-diamond-sizes-skeleton/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2b63e554b29177d3ce85f09c7075e14aa85b197f">
+        <dex dex="/Users/mbharrat/Desktop/_096465f8da8bfa9c908b9aebcb5ec777_m4-assignment-diamond-sizes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_396397f92e4f7d105e52aad88ec552aaa8dbc5c9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mbharrat/Desktop/_096465f8da8bfa9c908b9aebcb5ec777_m4-assignment-diamond-sizes-skeleton/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="57fa91277f28a04c5e6a9bfb7d45eacfb4cc1131">
+        <dex dex="/Users/mbharrat/Desktop/_096465f8da8bfa9c908b9aebcb5ec777_m4-assignment-diamond-sizes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f24c6582f832a079db3f371944cd2ed7fd1a947e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mbharrat/Desktop/_096465f8da8bfa9c908b9aebcb5ec777_m4-assignment-diamond-sizes-skeleton/app/libs/mobilecloud.handin-1.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d0ffa75b489bf8eb2a13b37de382793f726a44f4">
+        <dex dex="/Users/mbharrat/Desktop/_096465f8da8bfa9c908b9aebcb5ec777_m4-assignment-diamond-sizes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/2/mobilecloud.handin-1.0.0_df840549d45dd624b94cab1b964ca1d5b9219597/classes.dex" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/guava/guava/17.0/guava-17.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9c6ef172e8de35fd8d4d8783e4821e57cdef7445">
+        <dex dex="/Users/mbharrat/Desktop/_096465f8da8bfa9c908b9aebcb5ec777_m4-assignment-diamond-sizes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-17.0_5438fc06903fbe45a2079ea5ec73aa7c744719c4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mbharrat/Desktop/_096465f8da8bfa9c908b9aebcb5ec777_m4-assignment-diamond-sizes-skeleton/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/Users/mbharrat/Desktop/_096465f8da8bfa9c908b9aebcb5ec777_m4-assignment-diamond-sizes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-22.2.1_b4d229bf57cba5be9ef0a801315a57178c00502e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mbharrat/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/mbharrat/Desktop/_096465f8da8bfa9c908b9aebcb5ec777_m4-assignment-diamond-sizes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_30fdaeb7f9389c1f5df95eda12b9973a9fa70845/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mbharrat/Desktop/_096465f8da8bfa9c908b9aebcb5ec777_m4-assignment-diamond-sizes-skeleton/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/mbharrat/Desktop/_096465f8da8bfa9c908b9aebcb5ec777_m4-assignment-diamond-sizes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_586a4d7aee73174cbbf81f52903580c9ba091eea/classes.dex" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="/Users/mbharrat/Desktop/_096465f8da8bfa9c908b9aebcb5ec777_m4-assignment-diamond-sizes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-lang3-3.3.2_f921ad88f40c21184578d474913a9546d8a3f150/classes.dex" />
+    </item>
+
+</items>
